@@ -1,0 +1,2 @@
+Lista=["Antonio",45,"Fabiola",20,"Jesus Omar",14,"Angel",53]
+print(Lista)
